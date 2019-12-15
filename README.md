@@ -14,7 +14,6 @@ A simple paint application for kids which utilizes object-oriented C++ programmi
 **Contributers:**
 
 - [Nader AbdAlGhani](https://github.com/naderabdalghani)
-- [Mahmoud Mohamad](https://github.com/mmmacmp)
 - [Muhanad Atef](https://github.com/Muhanad23)
 - [Ahmad Mahmoud](https://github.com/AhmedMahmoud98)
 - [Sherif Essam](https://github.com/SherifEssamGomaa)
